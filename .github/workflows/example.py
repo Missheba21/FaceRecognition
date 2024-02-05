@@ -1,4 +1,5 @@
 def main():
+   import mod
    print("Hello from github action!")
 
 
